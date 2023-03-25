@@ -1,0 +1,84 @@
+[submodule "koor00t"]
+	path = koor00t
+	url = https://github.com/koor00t/DEX_solidity.git
+[submodule "DEX/koor00t"]
+	path = DEX/koor00t
+	url = https://github.com/koor00t/DEX_solidity.git
+[submodule "DEX/jw-dream"]
+	path = DEX/jw-dream
+	url = https://github.com/jw-dream/DEX_solidity.git
+[submodule "DEX/Namryeong-Kim"]
+	path = DEX/Namryeong-Kim
+	url = https://github.com/Namryeong-Kim/DEX_Solidity.git
+[submodule "DEX/Gamj4tang"]
+	path = DEX/Gamj4tang
+	url = https://github.com/Gamj4tang/DEX_solidity.git
+[submodule "DEX/kimziwu"]
+	path = DEX/kimziwu
+	url = https://github.com/kimziwu/DEX_solidity.git
+[submodule "DEX/hangi-dreamer"]
+	path = DEX/hangi-dreamer
+	url = https://github.com/hangi-dreamer/Dex_solidity.git
+[submodule "DEX/2-Sunghoon-Moon"]
+	path = DEX/2-Sunghoon-Moon
+	url = https://github.com/2-Sunghoon-Moon/DEX_solidity.git
+[submodule "DEX/jun4n"]
+	path = DEX/jun4n
+	url = https://github.com/jun4n/DEX_solidity.git
+[submodule "DEX/Sophie00Seo"]
+	path = DEX/Sophie00Seo
+	url = https://github.com/Sophie00Seo/DEX_solidity.git
+[submodule "DEX/seonghwi-lee"]
+	path = DEX/seonghwi-lee
+	url = https://github.com/seonghwi-lee/Lending-DEX_solidity.git
+[submodule "DEX/dlanaraa"]
+	path = DEX/dlanaraa
+	url = https://github.com/dlanaraa/DEX_solidity.git
+[submodule "DEX/hyeon777"]
+	path = DEX/hyeon777
+	url = https://github.com/hyeon777/DEX_Solidity.git
+[submodule "DEX/siwon-huh"]
+	path = DEX/siwon-huh
+	url = https://github.com/siwon-huh/DEX_solidity.git
+[submodule "DEX/jt-dream"]
+	path = DEX/jt-dream
+	url = https://github.com/jt-dream/Dex_solidity.git
+[submodule "Lending/koor00t"]
+	path = Lending/koor00t
+	url = https://github.com/koor00t/Lending_solidity.git
+[submodule "Lending/jw-dream"]
+	path = Lending/jw-dream
+	url = https://github.com/jw-dream/Leding-DEX-solidity.git
+[submodule "Lending/Namryeong-Kim"]
+	path = Lending/Namryeong-Kim
+	url = https://github.com/Namryeong-Kim/Lending_solidity.git
+[submodule "Lending/Gamj4tang"]
+	path = Lending/Gamj4tang
+	url = https://github.com/Gamj4tang/Lending_solidity.git
+[submodule "Lending/kimziwu"]
+	path = Lending/kimziwu
+	url = https://github.com/kimziwu/Lending_solidity.git
+[submodule "Lending/hangi-dreamer"]
+	path = Lending/hangi-dreamer
+	url = https://github.com/hangi-dreamer/Lending_solidity.git
+[submodule "Lending/2-Sunghoon-Moon"]
+	path = Lending/2-Sunghoon-Moon
+	url = https://github.com/2-Sunghoon-Moon/Lending_solidity.git
+[submodule "Lending/jun4n"]
+	path = Lending/jun4n
+	url = https://github.com/jun4n/Lending_solidity.git
+[submodule "Lending/Sophie00Seo"]
+	path = Lending/Sophie00Seo
+	url = https://github.com/Sophie00Seo/Lending_solidity.git
+[submodule "Lending/seonghwi-lee"]
+	path = Lending/seonghwi-lee
+	url = https://github.com/seonghwi-lee/Lending.git
+[submodule "Lending/dlanaraa"]
+	path = Lending/dlanaraa
+	url = https://github.com/dlanaraa/Lending_solidity.git
+[submodule "Lending/hyeon777"]
+	path = Lending/hyeon777
+	url = https://github.com/hyeon777/Lending_Solidity.git
+[submodule "Lending/siwon-huh"]
+	path = Lending/siwon-huh
+	url = https://github.com/siwon-huh/Lending_solidity.git
